@@ -47,3 +47,4 @@ function resetOpacity() {
 
 image.addEventListener("mouseover", changeOpacity);
 image.addEventListener("mouseout", resetOpacity);
+
